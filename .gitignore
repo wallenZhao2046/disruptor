@@ -18,3 +18,4 @@ pom.xml
 *.ipr
 *.iws
 *-gc.log
+/src/test/java/com/lmax/disruptor/MyTest.java
